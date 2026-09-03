@@ -83,7 +83,7 @@ python auto_login.py
     "cookies": {
       "session": "自动获取的session值"
     },
-    "api_user": "自动获取的用户ID"
+    "api_user": "68675"
   }
 ]
 ```
