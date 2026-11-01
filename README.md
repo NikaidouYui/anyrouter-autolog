@@ -79,7 +79,6 @@ python auto_login.py
 [
   {
     "name": "主账号",
-    "provider": "anyrouter.top",
     "cookies": {
       "session": "自动获取的session值"
     },
